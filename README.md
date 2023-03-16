@@ -27,6 +27,7 @@ COINBASE_API_KEY=yourapikeyhere
 
 <h1>Usage</h1>
 To start the application, run the following command:
+
 ```sh
 npm start
 ```
