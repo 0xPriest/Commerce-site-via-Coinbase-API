@@ -1,5 +1,6 @@
 <h1>Commerce-site-via-Coinbase-API</h1>
-<h2>Still in proggress</h2>
+<h2>Still in progress</h2>
+
 Welcome to the Commerce-site-via-Coinbase-API project! This project aims to provide a platform for users to accept cryptocurrency payments via the Coinbase API and enable them to launch their own online shops with ease
 
 <h1>Getting Started</h1>
