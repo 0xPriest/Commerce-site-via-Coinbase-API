@@ -30,6 +30,7 @@ To start the application, run the following command:
 ```sh
 npm start
 ```
+
 This will start the server on http://localhost:3000. You can then access the application by navigating to http://localhost:3000 in your web browser.
 
 The application provides a simple interface for merchants to create orders and receive cryptocurrency payments via the Coinbase API. When a customer places an order, the merchant will receive a payment request via the Coinbase API. Once the payment is received, the order will be marked as paid and the merchant can fulfill the order.
