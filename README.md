@@ -20,7 +20,7 @@ npm install
 After installing the dependencies, you will need to create a .env file in the root directory of the project and add your Coinbase API key to it:
 
 ```sh
-COINBASE_API_KEY=yourapikeyhere
+REACT_APP_API_KEY=yourapikeyhere
 ```
 
 
