@@ -1,7 +1,7 @@
 <h1>Commerce-site-via-Coinbase-API</h1>
 <h2>Still in progress</h2>
 
-Welcome to the Commerce-site-via-Coinbase-API project! This project aims to provide a platform for users to accept cryptocurrency payments via the Coinbase API and enable them to launch their own online shops with ease
+This project aims to provide a platform for users to accept cryptocurrency payments via the Coinbase API and enable them to launch their own online shops with ease
 
 <h1>Getting Started</h1>
 To get started with this project, you will need to have a Coinbase API key. If you do not have one, you can create one by signing up for a Coinbase account and generating an API key in the "Settings" section.
