@@ -7,23 +7,29 @@ To get started with this project, you will need to have a Coinbase API key. If y
 Once you have your API key, you will need to clone this repository to your local machine and install the necessary dependencies. You can do this by running the following commands:
 
 bash
-Copy code
+```sh
 git clone https://github.com/yourusername/Commerce-site-via-Coinbase-API.git
+```
+```sh
 cd Commerce-site-via-Coinbase-API
+```
+```sh
 npm install
+```
+
 After installing the dependencies, you will need to create a .env file in the root directory of the project and add your Coinbase API key to it:
 
-makefile
-Copy code
+```sh
 COINBASE_API_KEY=yourapikeyhere
+```
+
 
 
 <h1>Usage</h1>
 To start the application, run the following command:
-
-sql
-Copy code
+```sh
 npm start
+```
 This will start the server on http://localhost:3000. You can then access the application by navigating to http://localhost:3000 in your web browser.
 
 The application provides a simple interface for merchants to create orders and receive cryptocurrency payments via the Coinbase API. When a customer places an order, the merchant will receive a payment request via the Coinbase API. Once the payment is received, the order will be marked as paid and the merchant can fulfill the order.
