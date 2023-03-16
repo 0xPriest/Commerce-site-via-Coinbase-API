@@ -1,1 +1,2 @@
-<h1> h1 heading</h1>
+Project Name: Commerce-site-via-Coinbase-API
+This project provides a platform for merchants to accept cryptocurrency payments via the Coinbase API.
