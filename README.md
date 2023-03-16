@@ -6,7 +6,7 @@ To get started with this project, you will need to have a Coinbase API key. If y
 
 Once you have your API key, you will need to clone this repository to your local machine and install the necessary dependencies. You can do this by running the following commands:
 
-bash
+
 ```sh
 git clone https://github.com/yourusername/Commerce-site-via-Coinbase-API.git
 ```
