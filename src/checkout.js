@@ -13,7 +13,7 @@ export const checkout = async (price, name) => {
         pricing_type: "fixed_price",
         local_price: {
           amount: price,
-          currency: "USD",
+          currency: "USD", //fixed to usd
         },
       }),
     })
